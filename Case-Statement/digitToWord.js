@@ -1,8 +1,8 @@
-/**
+/***************************************
  * Purpose :  Read a single digit number 
  *  write the number in word using Case
  * @author: Sanyukta Nirmal
- */
+ ***************************************/
 let num = Math.floor(Math.random() * 10);
 console.log("Random single digit number is:" + num);
 switch(num){
